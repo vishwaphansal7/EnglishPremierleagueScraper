@@ -19,3 +19,5 @@ The code was made to scrape data from each Premier League game in the 2019/20 se
   
  *** 
 Feel free to contribute.
+
+If some has the player data of 2020-21 please send
